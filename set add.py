@@ -1,0 +1,6 @@
+x={1,2,3,4}
+y={5,6,7,8}
+#x.update(y)
+#print(x)
+z=x.union(y)
+print(z)
